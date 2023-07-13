@@ -1,5 +1,5 @@
 {
-  "decimals": 6,
-  "name": "Burn Address",
-  "symbol": "BURN"
+  "decimals": 18,
+  "name": "Chainlink",
+  "symbol": "LINK"
 }

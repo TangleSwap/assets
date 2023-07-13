@@ -1,8 +1,0 @@
-{
-  "chainName": "Ethereum Goerli (Testnet)",
-  "chainId": 5,
-  "explorer": "https://goerli.etherscan.io",
-  "name": "Ether",
-  "symbol": "ETH",
-  "decimals": 18
-}
