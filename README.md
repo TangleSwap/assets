@@ -16,7 +16,14 @@ There are two related yet different actions that the issuer of a token may be in
 
 Submit a Pull Request (PR) to this repo by following the instructions below.
 
-- *Instructions coming soon™️*
+- Fork this [TangleSwap Assets](https://github.com/TangleSwap/assets) repo (the button is towards the top-right of the main page).
+- Under the chain of your token (e.g. `shimmer`), select the `tokens` folder.
+- Add a new sub-folder with the same name as your token address.
+- Modify the `info.json` file with your token info (see other existing tokens as an example).
+- Replace the `logo.png` by your token's logo. File size ***must*** be 256x256 pixels, and in PNG format. Transparency is allowed.
+- Make a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (PR) with the changes on your fork, to the main [TangleSwap Assets](https://github.com/TangleSwap/assets) repo, with a brief explanation of your token.
+- Wait for someone to either comment on or merge your PR. Please feel free to contact the [TangleSwap crew](https://docs.tangleswap.exchange/community/enquiries) to coordinate this process and list the new token on the TangleSwap UI.
+- If your token is already listed and you want to make any modifications, just submit a new PR.
 
 ### Whitelisting on TangleSwap
 
