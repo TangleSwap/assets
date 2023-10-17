@@ -1,0 +1,28 @@
+{
+  "chainName": "Cardano EVM (Testnet)",
+  "chainId": 200101,
+  "website": "https://cardano.org",
+  "description": "Cardano is one of the biggest cryptocurrencies by market cap, designed to be a flexible, sustainable, and scalable blockchain platform.",
+  "explorer": "https://explorer-devnet-cardano-evm.c1.milkomeda.com",
+  "name": "Cardano",
+  "symbol": "ADA",
+  "decimals": 18,
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/cardano-foundation"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Cardano"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CardanoAnnouncements"
+    },
+    {
+      "name": "documentation",
+      "url": "https://docs.cardano.org/introduction"
+    }
+  ]
+}
