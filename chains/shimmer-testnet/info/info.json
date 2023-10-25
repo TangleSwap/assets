@@ -1,6 +1,6 @@
 {
   "chainName": "Shimmer EVM (Testnet)",
-  "chainId": 1072,
+  "chainId": 1073,
   "website": "https://shimmer.network",
   "description": "Shimmer is a scalable and feeless network enabling frictionless decentralized and scalable Web3 economies.",
   "explorer": "https://explorer.evm.testnet.shimmer.network",
