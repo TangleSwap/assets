@@ -1,5 +1,6 @@
 {
   "decimals": 18,
   "name": "Wrapped Ada",
-  "symbol": "WADA"
+  "symbol": "WADA",
+  "bridgeAvailable": true
 }

@@ -1,5 +1,6 @@
 {
   "decimals": 6,
   "name": "Tether",
-  "symbol": "USDT"
+  "symbol": "USDT",
+  "bridgeAvailable": true
 }

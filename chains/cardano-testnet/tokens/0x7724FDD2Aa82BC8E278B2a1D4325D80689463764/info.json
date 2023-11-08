@@ -1,5 +1,6 @@
 {
   "decimals": 18,
   "name": "Cardano Crocs Club",
-  "symbol": "C4"
+  "symbol": "C4",
+  "bridgeAvailable": false
 }

@@ -1,5 +1,6 @@
 {
   "decimals": 18,
   "name": "JPG Store",
-  "symbol": "JPG"
+  "symbol": "JPG",
+  "bridgeAvailable": false
 }

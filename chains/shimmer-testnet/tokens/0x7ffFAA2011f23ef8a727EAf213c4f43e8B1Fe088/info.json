@@ -1,6 +1,5 @@
 {
   "decimals": 18,
   "name": "TangleSwap",
-  "symbol": "VOID",
-  "bridgeAvailable": true
+  "symbol": "VOID"
 }

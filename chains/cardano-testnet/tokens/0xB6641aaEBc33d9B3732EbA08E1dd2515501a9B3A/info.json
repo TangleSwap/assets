@@ -1,5 +1,6 @@
 {
   "decimals": 18,
   "name": "BIG Jellycubes",
-  "symbol": "JELLY"
+  "symbol": "JELLY",
+  "bridgeAvailable": false
 }

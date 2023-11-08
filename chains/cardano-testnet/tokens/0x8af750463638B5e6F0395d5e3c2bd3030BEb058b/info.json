@@ -1,5 +1,6 @@
 {
   "decimals": 18,
   "name": "The Ape Society",
-  "symbol": "SOC"
+  "symbol": "SOC",
+  "bridgeAvailable": false
 }

@@ -1,5 +1,6 @@
 {
   "decimals": 8,
   "name": "Wrapped Bitcoin",
-  "symbol": "WBTC"
+  "symbol": "WBTC",
+  "bridgeAvailable": true
 }
