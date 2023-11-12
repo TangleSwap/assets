@@ -1,6 +1,5 @@
 {
   "decimals": 18,
   "name": "Dai",
-  "symbol": "DAI",
-  "bridgeAvailable": false
+  "symbol": "DAI"
 }

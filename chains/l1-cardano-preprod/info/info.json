@@ -1,12 +1,12 @@
 {
-  "chainName": "Cardano EVM (Milkomeda)",
-  "chainId": 2001,
+  "chainName": "Cardano Preprod",
+  "chainId": "cardano-preprod",
   "website": "https://cardano.org",
-  "description": "Cardano is one of the biggest cryptocurrencies by market cap, designed to be a flexible, sustainable, and scalable blockchain platform.",
-  "explorer": "https://explorer-devnet-cardano-evm.c1.milkomeda.com",
+  "description": "Cardano is one of the biggcest cryptocurrencies by market cap, designed to be a flexible, sustainable, and scalable blockchain platform.",
+  "explorer": "https://preprod.cardanoscan.io",
   "name": "Cardano",
   "symbol": "ADA",
-  "decimals": 18,
+  "decimals": 6,
   "links": [
     {
       "name": "github",

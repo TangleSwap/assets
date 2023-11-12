@@ -1,6 +1,5 @@
 {
   "decimals": 6,
   "name": "USD Coin",
-  "symbol": "USDC",
-  "bridgeAvailable": true
+  "symbol": "USDC"
 }
