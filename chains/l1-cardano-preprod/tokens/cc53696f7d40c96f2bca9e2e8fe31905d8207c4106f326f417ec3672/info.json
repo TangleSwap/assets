@@ -1,5 +1,6 @@
 {
   "decimals": 3,
   "name": "Treasury Reserve",
-  "symbol": "tRESERVE"
+  "symbol": "tRESERVE",
+  "evmAddress": "0x66c34c454f8089820c44e0785ee9635c425c9128"
 }

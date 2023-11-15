@@ -1,5 +1,6 @@
 {
   "decimals": 3,
   "name": "Treasury Stablecoin",
-  "symbol": "tSTABLE"
+  "symbol": "tSTABLE",
+  "evmAddress": "0xcba90fb1003b9d1bc6a2b66257d2585011b004e9"
 }
