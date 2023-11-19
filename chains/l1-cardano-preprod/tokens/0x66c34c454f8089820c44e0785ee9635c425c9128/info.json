@@ -2,5 +2,5 @@
   "decimals": 3,
   "name": "Treasury Reserve",
   "symbol": "tRESERVE",
-  "evmAddress": "0x66c34c454f8089820c44e0785ee9635c425c9128"
+  "l1Address": "cc53696f7d40c96f2bca9e2e8fe31905d8207c4106f326f417ec3672"
 }
