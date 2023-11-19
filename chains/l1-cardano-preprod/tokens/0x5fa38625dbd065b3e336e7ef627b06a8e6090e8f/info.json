@@ -1,6 +1,7 @@
 {
-  "decimals": 3,
+  "decimals": 6,
   "name": "Mock m3s6",
   "symbol": "M3S6",
-  "l1Address": "951038c684bf4b1e6c8a8cc549e65a1e6f7ec9ea44940791a69f7367"
+  "l1Address": "951038c684bf4b1e6c8a8cc549e65a1e6f7ec9ea44940791a69f7367",
+  "l1Decimals": 3
 }

@@ -1,6 +1,7 @@
 {
-  "decimals": 3,
+  "decimals": 6,
   "name": "Treasury Reserve",
   "symbol": "tRESERVE",
-  "l1Address": "cc53696f7d40c96f2bca9e2e8fe31905d8207c4106f326f417ec3672"
+  "l1Address": "cc53696f7d40c96f2bca9e2e8fe31905d8207c4106f326f417ec3672",
+  "l1Decimals": 6
 }

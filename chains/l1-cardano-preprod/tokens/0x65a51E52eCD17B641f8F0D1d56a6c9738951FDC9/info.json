@@ -1,6 +1,7 @@
 {
-  "decimals": 6,
+  "decimals": 18,
   "name": "Cardano",
   "symbol": "ADA",
-  "l1Address": "ADA"
+  "l1Address": "ADA",
+  "l1Decimals": 6
 }
