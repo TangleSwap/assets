@@ -3,5 +3,6 @@
   "name": "Wrapped Bitcoin",
   "symbol": "WBTC",
   "l1Address": "84c920ee2b81a5cc5fca698a0b18093cc5d033e362e187acb83c577f",
+  "l1EncodedName": "57425443",
   "l1Decimals": 10
 }

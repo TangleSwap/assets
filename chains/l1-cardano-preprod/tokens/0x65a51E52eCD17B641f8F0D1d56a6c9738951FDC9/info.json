@@ -3,5 +3,6 @@
   "name": "Cardano",
   "symbol": "ADA",
   "l1Address": "ADA",
+  "l1EncodedName": "",
   "l1Decimals": 6
 }
