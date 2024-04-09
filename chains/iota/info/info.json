@@ -1,0 +1,28 @@
+{
+  "chainName": "IOTA EVM",
+  "chainId": 8822,
+  "website": "https://iota.org",
+  "description": "IOTA is a scalable and feeless network enabling frictionless decentralized and scalable Web3 economies.",
+  "explorer": "https://explorer.evm.iota.org",
+  "name": "IOTA",
+  "symbol": "IOTA",
+  "decimals": 18,
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/iotaledger"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/iota"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.iota.org"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://iota.org/foundation/research-papers"
+    }
+  ]
+}
